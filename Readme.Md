@@ -100,16 +100,23 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo using
 <pre>
 <code>
-
-````
-   git clone https://github.com/kdsanskar07/TwitterClone.git
-
-```</code>
+git clone https://github.com/kdsanskar07/TwitterClone.git</code>
 </pre>
 
-2. Goto the project repo and run command 'npm install && node server.js'
+2. Goto the project repo and run command
 
-3. Goto the client repo and run command 'npm install && npm run start'
+<pre>
+<code>
+npm install && node server.js
+</code>
+</pre>
+
+3. Goto the client repo and run command
+<pre>
+<code>
+npm install && npm run start
+</code>
+</pre>
 
 <!-- USAGE EXAMPLES
 
@@ -139,6 +146,10 @@ Secondly I would also like to thank Chaitanya Mathur and my friends who helped m
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sanskar-khandelwal-337347161/
+
 <!-- [timeline]: images/timeline.jpg
 [flowchart]: images/flowdiagram.jpg -->
-````
+
+```
+
+```
