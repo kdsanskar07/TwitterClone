@@ -118,8 +118,6 @@ For User Manual, please refer to the [User Manual](https://example.com) -->
 
 Sanskar Khandelwal - kdsanskar07@gmail.com
 
-Project Link: [http://trackend.herokuapp.com/](http://trackend.herokuapp.com/)
-
 <!-- ACKNOWLEDGEMENTS -->
 
 <!-- ## Acknowledgements -->
