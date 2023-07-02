@@ -1,24 +1,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<br />
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1gnUslE035V1QIHwNHVcssaf56CrTTKPq/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/kdsanskar07/TwitterClone">
   </a>
-
   <h3 align="center">Twitter Clone</h3>
-
-  <!-- <p align="center">
-    Expense Tracker
-    <br />
-    <br />
-    <br />
-   
-  </p> -->
 </p>
 
 <!-- TABLE OF CONTENTS
@@ -111,7 +97,7 @@ npm install && node server.js
 </code>
 </pre>
 
-3. Goto the client repo and run command
+3. Goto the `client` folder and run command
 <pre>
 <code>
 npm install && npm run start
@@ -149,7 +135,3 @@ Secondly I would also like to thank Chaitanya Mathur and my friends who helped m
 
 <!-- [timeline]: images/timeline.jpg
 [flowchart]: images/flowdiagram.jpg -->
-
-```
-
-```
