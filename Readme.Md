@@ -2,6 +2,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1gnUslE035V1QIHwNHVcssaf56CrTTKPq/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
   </a>
@@ -34,7 +38,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-   
+
   </ol>
 </details> -->
 
@@ -57,17 +61,9 @@ Brownie Task
 
 1. Use GraphQL as an API Gateway and interact with GraphQL from the frontend.
 
+### Demo Video Link
 
-### Demo Video
-
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1gnUslE035V1QIHwNHVcssaf56CrTTKPq/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<!-- [![Twitter Clone Application Demo](https://drive.google.com/file/d/1gnUslE035V1QIHwNHVcssaf56CrTTKPq/view?usp=sharing)](https://drive.google.com/file/d/1gnUslE035V1QIHwNHVcssaf56CrTTKPq/view?usp=sharing) -->
-
-
+[![Twitter Clone Application Demo](https://drive.google.com/file/d/1gnUslE035V1QIHwNHVcssaf56CrTTKPq/view?usp=sharing)](https://drive.google.com/file/d/1gnUslE035V1QIHwNHVcssaf56CrTTKPq/view?usp=sharing)
 
 <!-- ### Timeline
 
@@ -87,7 +83,6 @@ Brownie Task
 - [MongoDB](https://www.mongodb.com/)
 - [GraphQL](https://graphql.org/)
 
-
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -99,16 +94,23 @@ To get a local copy up and running follow these simple example steps.
 - npm
   sh
   npm install npm@latest -g -->
-  
 
 ### Installation
 
-1. Clone the repo using 'git clone https://github.com/kdsanskar07/RestuarantMangementApp/'
+1. Clone the repo using
+<pre>
+<code>
 
-2. Goto the project repo and run command 'npm install && node server.js' 
+````
+   git clone https://github.com/kdsanskar07/TwitterClone.git
 
-3. Goto the client repo and run command 'npm install && npm run start' 
-   
+```</code>
+</pre>
+
+2. Goto the project repo and run command 'npm install && node server.js'
+
+3. Goto the client repo and run command 'npm install && npm run start'
+
 <!-- USAGE EXAMPLES
 
 ## Usage
@@ -139,3 +141,4 @@ Secondly I would also like to thank Chaitanya Mathur and my friends who helped m
 [linkedin-url]: https://www.linkedin.com/in/sanskar-khandelwal-337347161/
 <!-- [timeline]: images/timeline.jpg
 [flowchart]: images/flowdiagram.jpg -->
+````
