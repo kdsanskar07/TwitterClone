@@ -1,0 +1,80 @@
+export const mockData = [
+  {
+      "id": 1,
+      "description": "This is tweet description data This is tweet description data This is tweet description data This is tweet description data This is tweet description data This is tweet description data This is tweet description data This is tweet description data",
+      "user": {
+        "id": 1,
+        "userId": "jsayant",
+        "name": "Sayant Jain",
+        "email": "sayant1204@gmail.com",
+        "isFollowed": true,
+      },
+      "createdAt": "2022-06-14T07:00:00.000Z",
+      "likesCount": 5,
+  },
+  {
+    "id": 2,
+    "description": "This is tweet number 2",
+    "user": {
+      "id": 2,
+      "userId": "jsayant",
+      "name": "Sayant Jain",
+      "email": "sayant1204@gmail.com",
+      "isFollowed": true,
+    },
+    "createdAt": "2017-06-14T07:00:00.000Z",
+    "likesCount": 5,
+  },
+  {
+    "id": 3,
+    "description": "This is tweet number 3",
+    "user": {
+      "id": 1,
+      "userId": "jsayant",
+      "name": "Sayant Jain",
+      "email": "sayant1204@gmail.com",
+      "isFollowed": true,
+    },
+    "createdAt": "2017-06-14T07:00:00.000Z",
+    "likesCount": 5,
+  },
+  {
+    "id": 4,
+    "description": "This is tweet description data",
+    "user": {
+      "id": 1,
+      "userId": "jsayant",
+      "name": "Sayant Jain",
+      "email": "sayant1204@gmail.com",
+      "isFollowed": true,
+    },
+    "createdAt": "2017-06-14T07:00:00.000Z",
+    "likesCount": 5,
+  },
+  {
+    "id": 5,
+    "description": "This is tweet description data",
+    "user": {
+      "id": 1,
+      "userId": "jsayant",
+      "name": "Sayant Jain",
+      "email": "sayant1204@gmail.com",
+      "isFollowed": true,
+    },
+    "createdAt": "2017-06-14T07:00:00.000Z",
+    "likesCount": 5,
+  },
+  {
+    "id": 6,
+    "description": "This is tweet description data",
+    "user": {
+      "id": 1,
+      "userId": "jsayant",
+      "name": "Sayant Jain",
+      "email": "sayant1204@gmail.com",
+      "isFollowed": true,
+    },
+    "createdAt": "2017-06-14T07:00:00.000Z",
+    "likesCount": 5,
+  }
+];

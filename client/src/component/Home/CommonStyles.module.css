@@ -1,0 +1,28 @@
+.borderedDiv {
+    background-color: rgb(26, 26, 26);
+    border-top: .1px solid gray;
+    border-bottom: .1px solid gray;
+}
+
+.verticalLines {
+    background-color: rgb(26, 26, 26);
+    border-left: .1px solid gray;
+    border-right: .1px solid gray;
+}
+
+.contentContainer {
+    flex: 1;
+    display: flex;
+}
+
+.contentLeft {
+    padding: 20px;
+    height: 100%;
+    width: 5%;
+}
+
+.contentRight {
+    padding: 20px;
+    height: 100%;
+    width: 90%;
+}

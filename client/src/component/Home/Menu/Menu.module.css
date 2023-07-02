@@ -1,0 +1,41 @@
+.menu {
+  width: 200px;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.itemContainer {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  cursor: pointer;
+}
+
+.itemContainer:hover {
+  background-color: rgb(32, 32, 32);
+}
+
+.itemIconContainer {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  font-weight: 500;
+}
+
+.itemLabelContainer {
+  width: 70%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: large;
+  font-weight: 500;
+}
